@@ -10,3 +10,7 @@ A collection of my solutions to **HackerRank coding challenges**. Whether you're
   - Solutions in **Java 7**
 - **SQL**
   - Solutions in **MySQL**
+
+- **Tutorials**
+  - **30 Days of Code**
+      - Python
