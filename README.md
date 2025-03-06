@@ -4,12 +4,9 @@ A collection of my solutions to **HackerRank coding challenges**. Whether you're
 
 ## Topics Covered
 
-- **Python**
-  - Solutions in **Python 3**
-- **Java**
-  - Solutions in **Java 7**
-- **SQL**
-  - Solutions in **MySQL**
+- **Python** (Python 3)
+- **Java** (Java 7)
+- **SQL** (MySQL)
 
 - **Tutorials**
   - **30 Days of Code**
