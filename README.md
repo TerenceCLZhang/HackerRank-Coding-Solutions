@@ -14,3 +14,4 @@ A collection of my solutions to **HackerRank coding challenges**. Whether you're
 - **Tutorials**
   - **30 Days of Code**
       - Python
+  - **10 Days of JavaScript**
