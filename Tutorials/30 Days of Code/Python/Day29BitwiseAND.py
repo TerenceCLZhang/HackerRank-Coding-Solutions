@@ -21,7 +21,7 @@ def bitwiseAnd(N, K):
         for b in range(a + 1, N + 1):
             ans = a & b
             if ans > current_max and ans < K:
-                current_max = max(current_max, a & b)
+                current_max = ans
     return current_max
                 
 
